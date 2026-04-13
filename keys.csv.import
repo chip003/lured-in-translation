@@ -1,0 +1,17 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://ce6nc7uqs7fcs"
+valid=false
+
+[deps]
+
+source_file="res://lured-in-translation/keys.csv"
+
+[params]
+
+compress=0
+delimiter=0
+unescape_keys=false
+unescape_translations=true
